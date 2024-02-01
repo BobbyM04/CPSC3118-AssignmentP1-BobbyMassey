@@ -1,7 +1,7 @@
 # CPSC3118 AssignmentP1
 
 ## Project Details:
-- **Project Name:** Assignment P1: First GUI Development Project
+- **Project Name:** Assignment P1: Initial GUI App Development
 - **Student Name:** Bobby Massey
 
 ## Design Tool Used:
